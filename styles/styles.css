@@ -1,10 +1,16 @@
 html {
   font-family: Verdana, sans-serif;
+  background-color: rgb(189, 167, 112);
+}
+
+p {
+  font-size: 18px;
 }
 
 .main-heading{
   font-size: 60px;
   font-weight: 900;
+  text-align: center;
 }
 
 .secondary-heading {
